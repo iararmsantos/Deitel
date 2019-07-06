@@ -26,7 +26,9 @@ public class CalculadoraSalarioTest {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
+        //habilitando entrada de dados
        Scanner tec = new Scanner(System.in);
+       //looping de repetição
        String resp = "";
        do{
            
